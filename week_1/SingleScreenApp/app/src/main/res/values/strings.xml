@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="business_name">neobis clubs</string>
+    <string name="deviz">Learning ~ Coding ~ Mentoring</string>
+    <string name="about">О нас:</string>
+    <string name="about1">Молодежная, амбициозная организация, которая ставит своей целью развитие Кыргызстана в сфере информационных технологий, инноваций и образования. Мы верим, что развивая сферу IT технологий, мы имеем уникальную возможность сделать большой прорыв в развитии страны, поднять экономику и стать инновационной страной.</string>
+    <string name="purpose">Цели Необис:</string>
+    <string name="purpose1">Поддержка образовательного сектора в Кыргызстане</string>
+    <string name="purpose2">Развитие сферы информационных технологий при помощи подготовки качественных кадров во всех регионах страны</string>
+    <string name="purpose3">Содействие людям в поиске достойной работы в сфере IТ технологий</string>
+    <string name="address">Кыргызстан, г.Бишкек Тыныстанова 98 3-этаж</string>
+    <string name="phone_number">+996500636247</string>
+    <string name="email">neobiskg@gmail.com</string>
+
+</resources>
