@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_margin="8dp"
+        android:layout_marginRight="5dp"
+        android:scaleType="centerCrop"
+        android:layout_marginEnd="5dp"/>
+
+    <TextView
+        android:id="@+id/locations_name"
+        style="@style/TextView"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:fontFamily="sans-serif"
+        android:textStyle="bold"
+        android:layout_below="@id/image"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"/>
+
+    <ImageView
+        android:id="@+id/show_more_button"
+        style="@style/ImageView"
+        android:layout_below="@id/image"
+        android:src="@drawable/show_more"
+        android:layout_marginRight="16dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="0dp"/>
+
+    <ImageView
+        android:id="@+id/hide_button"
+        style="@style/ImageView"
+        android:src="@drawable/show_less"
+        android:layout_marginRight="16dp"
+        android:layout_below="@id/image"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="0dp"/>
+
+    <ImageView
+        android:id="@+id/description_icon"
+        style="@style/ImageView"
+        android:src="@drawable/description"
+        android:layout_below="@id/locations_name"/>
+
+    <TextView
+        android:id="@+id/description"
+        style="@style/TextView"
+        android:layout_below="@id/locations_name"
+        android:textColor="#000000"
+        android:layout_toRightOf="@id/description_icon"
+        android:layout_toEndOf="@id/description_icon" />
+
+    <ImageView
+        android:id="@+id/location_icon"
+        style="@style/ImageView"
+        android:src="@drawable/location"
+        android:layout_below="@id/description" />
+
+    <TextView
+        android:id="@+id/location_address"
+        style="@style/TextView"
+        android:textColor="#000000"
+        android:layout_below="@id/description"
+        android:layout_toRightOf="@id/location_icon"
+        android:layout_toEndOf="@id/location_icon" />
+
+    <ImageView
+        android:id="@+id/w_hours_icon"
+        style="@style/ImageView"
+        android:src="@drawable/time"
+        android:layout_below="@id/location_address"/>
+
+    <TextView
+        android:id="@+id/w_hours"
+        android:textColor="#000000"
+        style="@style/TextView"
+        android:layout_below="@id/location_address"
+        android:layout_toRightOf="@id/w_hours_icon"
+        android:layout_toEndOf="@id/w_hours_icon"/>
+
+    <ImageView
+        android:id="@+id/phone_number_icon"
+        style="@style/ImageView"
+        android:src="@drawable/phone"
+        android:layout_below="@id/w_hours"/>
+
+    <TextView
+        android:id="@+id/phone_number"
+        style="@style/TextView"
+        android:layout_below="@id/w_hours"
+        android:textColor="#0288D1"
+        android:layout_toRightOf="@id/phone_number_icon"
+        android:layout_toEndOf="@id/phone_number_icon" />
+
+    <ImageView
+        android:id="@+id/money_icon"
+        style="@style/ImageView"
+        android:src="@drawable/money"
+        android:layout_below="@id/phone_number" />
+
+    <TextView
+        android:id="@+id/priceText"
+        style="@style/TextView"
+        android:layout_below="@id/phone_number"
+        android:textColor="#000000"
+        android:layout_toRightOf="@id/money_icon"
+        android:layout_toEndOf="@id/money_icon" />
+
+</RelativeLayout>

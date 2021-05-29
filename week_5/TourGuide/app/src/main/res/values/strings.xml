@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">Seoul Tour Guide</string>
+
+    <string-array name="universities">
+        <item>Seoul National University 서울대학교 </item>
+        <item>Yonsei University 연세대학교 </item>
+        <item>Ewha Womans University 이화여자대학교</item>
+        <item>Sogang University 서강대학교 </item>
+        <item>Korea University 고려대학교</item>
+        <item>Hanyang University 한양대학교</item>
+        <item>Sungkyunkwan University 성균관대학교</item>
+        <item>Kyung Hee University 경희대학교</item>
+    </string-array>
+
+    <string-array name="universitiesAddress">
+        <item>1 Gwanak-ro, Gwanak-gu, 151-742 Seoul, South Korea</item>
+        <item>134 Sinchon-dong, Seodaemun-gu, 120-749 Seoul, South Korea</item>
+        <item>11-1 Daehyun-dong, Seodaemun-gu, 120-750 Seoul, South Korea</item>
+        <item>1 Sinsu-dong, Mapo-gu, 121-742 Seoul, South Korea</item>
+        <item>145, Anam-ro, Seongbuk-gu, 136-701 Seoul, South Korea</item>
+        <item>222 Wangsimni-ro, Seongdong-gu, 133-791 Seoul, South Korea</item>
+        <item>53 Myeongnyun-dong 3-ga, Jongno-gu, 110-745 Seoul, South Korea</item>
+        <item>1 Hoegi-dong, Dongdaemun-gu, 130-701 Seoul, South Korea</item>
+    </string-array>
+
+    <string-array name="universitiesPhoneNumber">
+        <item>+82 (2) 880 4447</item>
+        <item>+82 (2) 2123 2114</item>
+        <item>+82 (2) 3277 2114</item>
+        <item>+82 (2) 705 8827</item>
+        <item>+82 (2) 3290 1114</item>
+        <item>+82 (2) 2220 0045</item>
+        <item>+82 (2) 760 1104</item>
+        <item>+82 (2) 961 0031</item>
+    </string-array>
+
+    <string-array name="universitiesDescription">
+        <item>Gender: 👩🏻‍🎓 🧑🏻‍🎓 Men and Women (coed) \n\n
+            International Students: 🌎 Yes, international applicants are welcome to apply for admission \n\n
+            Founded: 🧠  1946 \n\n
+            Information: 📌 Established in 1946, Seoul National University is a non-profit public higher-education institution located in the urban setting of the large metropolis of Seoul (population range of over 5,000,000 inhabitants). This institution also has a branch campus in Suwon. Officially recognized by the Ministry of Education of Korea, Seoul National University (SNU) is a large (uniRank enrollment range: 25,000-29,999 students) coeducational South Korean higher education institution. \n</item>
+        <item>Gender: 👩🏻‍🎓 🧑🏻‍🎓 Men and Women (coed)\n\n
+            International Students: 🌎 Yes, international applicants are welcome to apply for admission \n\n
+            Founded: 🧠  1957 Origins date back to 1885\n\n
+            Information: 📌 Established in 1957, Yonsei University is a for-profit private higher-education institution located in the urban setting of the large metropolis of Seoul (population range of over 5,000,000 inhabitants). Officially recognized by the Ministry of Education of Korea, Yonsei University is a very large (uniRank enrollment range: 35,000-39,999 students) coeducational South Korean higher education institution formally affiliated with the Christian-Protestant religion. \n</item>
+        <item>Gender: 👩🏻‍🎓 Women Only \n\n
+            International Students: 🌎 Yes, international applicants are welcome to apply for admission \n\n
+            Founded: 🧠 1886 \n\n
+            Information: 📌 Established in 1886, Ewha Womans University is a private higher-education institution located in the urban setting of the large metropolis of Seoul (population range of over 5,000,000 inhabitants). Officially recognized by the Ministry of Education of Korea, Ewha Womans University is a large (uniRank enrollment range: 15,000-19,999 students) women only South Korean higher education institution. \n</item>
+        <item>Gender: 👩🏻‍🎓 🧑🏻‍🎓 Men and Women (coed) \n\n
+            International Students: 🌎 Yes, international applicants are welcome to apply for admission \n\n
+            Founded: 🧠 1960 \n\n
+            Information: 📌 Founded in 1960, Sogang University is a private higher-education institution located in the urban setting of the large metropolis of Seoul (population range of over 5,000,000 inhabitants). Officially recognized by the Ministry of Education of Korea, Sogang University is a large (uniRank enrollment range: 10,000-14,999 students) coeducational South Korean higher education institution formally affiliated with the Christian-Catholic religion. \n</item>
+        <item>Gender: 👩🏻‍🎓 🧑🏻‍🎓 Men and Women (coed) \n\n
+            International Students: 🌎 Yes, international applicants are welcome to apply for admission \n\n
+            Founded: 🧠 1905 \n\n
+            Information: 📌 Founded in 1905, Korea University is a private higher-education institution located in the urban setting of the large metropolis of Seoul (population range of over 5,000,000 inhabitants). Officially recognized by the Ministry of Education of Korea, Korea University is a large (uniRank enrollment range: 25,000-29,999 students) coeducational South Korean higher education institution. \n</item>
+        <item>Gender: 👩🏻‍🎓 🧑🏻‍🎓 Men and Women (coed) \n\n
+            International Students: 🌎 Yes, international applicants are welcome to apply for admission \n\n
+            Founded: 🧠 1939 \n\n
+            Information: 📌 Founded in 1939, Hanyang University is a for-profit private higher-education institution located in the urban setting of the large metropolis of Seoul (population range of over 5,000,000 inhabitants). This institution also has a branch campus in Ansan. Officially recognized by the Ministry of Education of Korea, Hanyang University (HYU) is a very large (uniRank enrollment range: 35,000-39,999 students) coeducational South Korean higher education institution. \n</item>
+        <item>Gender: 👩🏻‍🎓 🧑🏻‍🎓 Men and Women (coed) \n\n
+            International Students: 🌎 Yes, international applicants are welcome to apply for admission \n\n
+            Founded: 🧠 1398 \n\n
+            Information: 📌 Founded in 1398, Sungkyunkwan University is a private higher-education institution located in the urban setting of the large metropolis of Seoul (population range of over 5,000,000 inhabitants). This institution also has a branch campus in Suwon-si. Officially recognized by the Ministry of Education of Korea, Sungkyunkwan University (SKKU) is a large (uniRank enrollment range: 25,000-29,999 students) coeducational South Korean higher education institution formally affiliated with the Confucian religion. \n</item>
+        <item>Gender: 👩🏻‍🎓 🧑🏻‍🎓 Men and Women (coed) \n\n
+            International Students: 🌎 Yes, international applicants are welcome to apply for admission \n\n
+            Founded: 🧠 1949 \n\n
+            Information: 📌 Established in 1949, Kyung Hee University is a non-profit private higher-education institution located in the urban setting of the large metropolis of Seoul (population range of over 5,000,000 inhabitants). This institution also has a branch campus in Suwon. Officially recognized by the Ministry of Education of Korea, Kyung Hee University (KHU) is a large (uniRank enrollment range: 25,000-29,999 students) coeducational South Korean higher education institution. \n</item>
+    </string-array>
+
+
+    <string-array name="parks">
+        <item>Seoul Botanic Park</item>
+        <item>Olympic Park</item>
+        <item>Naksan Park</item>
+        <item>World Cup Stadium</item>
+        <item>Ttukseom Hangang Park</item>
+        <item>Seoul Forest</item>
+        <item>Yeouido Hangang Park</item>
+        <item>Namsan Park</item>
+    </string-array>
+
+    <string-array name="parkAddress">
+        <item>로 161 Magok-dong, Gangseo-gu, Seoul, Республика Корея</item>
+        <item>424 Olympic-ro, Oryun-dong, Songpa-gu, Seoul, Республика Корея</item>
+        <item>41 Naksan-gil, Ihwa-dong, Jongno-gu, Seoul, Республика Корея</item>
+        <item>240 Woldeukeom-ro, Seongsan 2(i)-dong, Mapo-gu, Seoul, Республика Корея</item>
+        <item>Республика Корея, Seoul, Gwangjin-gu, Jayang-dong, 704-1</item>
+        <item>273 Ttukseom-ro, Seongsu-dong 1(il)-ga, Seongdong-gu, Seoul, Южная Корея</item>
+        <item>330 Yeouidong-ro, Yeoeuido-dong, Yeongdeungpo-gu, Seoul, Республика Корея</item>
+        <item>Hoehyeondong 1(il)-ga, Сеул, Республика Корея</item>
+    </string-array>
+
+    <string-array name="parkWorkingHours">
+        <item>10am – 11pm</item>
+        <item>12pm – 1am</item>
+        <item>12pm – 10pm</item>
+        <item>12pm – 1am</item>
+        <item>2pm – 12am</item>
+        <item>8am – 1pm</item>
+        <item>11am - 11pm</item>
+        <item>24/7</item>
+    </string-array>
+
+    <string-array name="parkPrice">
+        <item>$ 12</item>
+        <item>$ 29</item>
+        <item>$ 14</item>
+        <item>$ 123.95</item>
+        <item>$ 24.95</item>
+        <item>$ 134</item>
+        <item>$ 14</item>
+        <item>$ 17.95</item>
+    </string-array>
+
+    <string-array name="park_description">
+        <item>The park is located near Gimpo Airport, and that is the biggest downside. It, unfortunately, is not easy to reach unless you are already in that area. If you have some time before/after a flight, then check out Seoul Botanic Park!</item>
+        <item>Olympic Park (올림픽공원) is a large garden located in the east of Seoul near Jamsil and Lotte Tower. The park can be reached easily from Jamsil, and is located only one stop away on the pink subway line at the Mongchontoseong stop.</item>
+        <item>Naksan Park (san meaning mountain) is an often overlooked park located in the northern part of Seoul, very close to Dongdaemun. The park does require a walk up the mountain, but really the mountain is more alike to a large hill. It’s an easy walk and is not difficult.</item>
+        <item>World Cup Stadium is made up of many smaller gardens that each have their own unique attractions. From the Nanji Hangang Park (a riverside park that runs alongside the Han River) to Hanuel Garden (which literally translates as ‘Sky Garden’), World Cup Stadium easily has the most variety out of all of the gardens on this list.</item>
+        <item>Ttukseom Resort is a bit out of the way for most people, however, the park is definitely worth the short trip that is required. From the subway station, you can enter straight into the park.</item>
+        <item>The park is situated on the banks of the Han River and is located very close to Ttukseom (another must-visit park!). Seoul Forest is best reached on the yellow line, just south of Wangsimni Station.</item>
+        <item>Yeouido is another park that is very famous in Seoul. In spring especially (with the Yeouido cherry blossom festival), Yeouido Hangang Park is stunning.</item>
+        <item>Namsan Park is somewhere that is visited by nearly everyone that comes to Seoul. But how many people have ever actually experienced the park? I would hazard a guess and say not many.</item>
+    </string-array>
+
+    <string-array name="hotels">
+        <item>Four Seasons Hotel Seoul</item>
+        <item>InterContinental Seoul COEX</item>
+        <item>Grand InterContinental Seoul Parnas</item>
+        <item>Park Hyatt Seoul</item>
+        <item>Banyan Tree Club and Spa Seoul</item>
+        <item>Conrad Seoul</item>
+        <item>JW Marriott Hotel Seoul</item>
+        <item>Signiel Seoul</item>
+        <item>Aloft Seoul Gangnam</item>
+        <item>Amanti Hotel Seoul</item>
+    </string-array>
+
+    <string-array name="hotelsAddress">
+        <item>97 Saemunan-ro, Sinmunno 1(il)-ga, Jongno-gu, Seoul</item>
+        <item>524 Bongeunsa-ro, Gangnam-gu, Seoul</item>
+        <item>521, Teheran-ro, Gangnam-gu, Seoul</item>
+        <item>606 Teheran-ro, Gangnam-gu, Seoul</item>
+        <item>60, Jangchungdan-ro, Jung-gu, Seoul</item>
+        <item>10 Gukjegeumyung-ro Yeouido Yeongdeungpo-gu, Seoul</item>
+        <item>176, Sinbanpo-ro, Seocho-gu, Seoul</item>
+        <item>300, Olympic-ro, Songpa-gu, 76-101F, Lotte World Tower, Seoul</item>
+        <item>736, Yeongdong-daero, Gangnam-gu, Seoul</item>
+        <item>31, World Cup buk-ro, Mapo-gu, Seoul</item>
+    </string-array>
+
+    <string-array name="hotelPrice">
+        <item>$ 20 - $ 45</item>
+        <item>$ 31 - $ 60</item>
+        <item>$ 31 - $ 60 </item>
+        <item>$ 15 - $ 35</item>
+        <item>$ 31 - $ 50</item>
+        <item>$ 35 - $ 60</item>
+        <item>$ 20 - $ 40</item>
+        <item>$ 18 - $ 45</item>
+        <item>$ 50 - $ 80</item>
+        <item>$ 60 - $ 100</item>
+    </string-array>
+
+    <string-array name="hotelNumber">
+        <item>+82 1234 5678</item>
+        <item>+82 4322 5434</item>
+        <item>+82 5645 1212</item>
+        <item>+82 7854 9098</item>
+        <item>+82 4322 5678</item>
+        <item>+82 1234 7677</item>
+        <item>+82 7755 7543</item>
+        <item>+82 3422 5678</item>
+        <item>+82 1234 6256</item>
+        <item>+82 5432 5678</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
